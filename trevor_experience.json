@@ -1,0 +1,192 @@
+{
+  "employers": [
+    {
+      "companyName": "ActiveCampaign",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQH_sBrPS8oQlQ/company-logo_400_400/company-logo_400_400/0/1656974887410/activecampaign_inc__logo?e=1748476800&v=beta&t=_xa28ZVshTaUXNu8Z1LOMYdKWHLX9tq6fViSy6zHDcw",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Demand Generation Marketing Lead, Postmark",
+      "employmentType": "Full-time",
+      "startDate": "August 2023",
+      "endDate": "Present",
+      "description": "Leading demand generation strategy and execution for Postmark, a transactional email service within ActiveCampaign. Responsible for driving profitable user acquisition and growth through multi-channel digital marketing campaigns.",
+      "achievements": [
+        "Developed and executed comprehensive digital advertising strategy across Google, Microsoft, and Meta platforms, resulting in 35% increase in qualified leads",
+        "Optimized campaign performance through rigorous A/B testing and data analysis, improving conversion rates by 28% and reducing cost per acquisition by 22%",
+        "Led cross-functional collaboration with product and sales teams to align marketing initiatives with business objectives and customer needs",
+        "Implemented advanced tracking and attribution models to accurately measure campaign performance and ROI across multiple channels"
+      ]
+    },
+    {
+      "companyName": "Mailgun by Sinch",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQExd4RpH3D5Og/company-logo_400_400/company-logo_400_400/0/1694623482339/mailgun_logo?e=1748476800&v=beta&t=4-LgBQaZtnnb694S1mzzYN0bp_b5ulkEo8KFpDuldWg",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "201 - 500",
+      "title": "Performance Marketing Manager - Team Lead",
+      "employmentType": "Full-time",
+      "startDate": "January 2022",
+      "endDate": "August 2023",
+      "description": "Led performance marketing initiatives and managed a team of digital marketers focused on driving user acquisition and revenue growth for Mailgun's email API services.",
+      "achievements": [
+        "Scaled Google App Campaigns resulting in 45% year-over-year growth in new customer acquisition while maintaining target cost per acquisition",
+        "Successfully launched and optimized Microsoft Advertising campaigns, establishing a new profitable acquisition channel that contributed 18% of total lead volume",
+        "Developed and implemented creative testing framework for Meta advertising, increasing click-through rates by 32% and reducing cost per click by 24%",
+        "Managed $1.2M annual digital advertising budget, consistently achieving ROI targets through strategic allocation and continuous optimization"
+      ]
+    },
+    {
+      "companyName": "Email on Acid",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQGCuyVdkT0l5Q/company-logo_400_400/company-logo_400_400/0/1694622992630/email_on_acid_logo?e=1748476800&v=beta&t=E8u5jtygO-v7mYKg0tz0QeqFDHPjxkHVb1RJCa_uMgo",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Digital Marketing Manager",
+      "employmentType": "Full-time",
+      "startDate": "December 2020",
+      "endDate": "January 2022",
+      "description": "Managed comprehensive digital marketing strategy including paid search, social media advertising, and email marketing campaigns for an email testing and deliverability platform.",
+      "achievements": [
+        "Restructured Google Ads account architecture and implemented advanced bidding strategies, resulting in 40% improvement in conversion rates",
+        "Expanded digital advertising presence to new platforms including LinkedIn and Twitter, diversifying acquisition channels and reducing dependency on single platforms",
+        "Collaborated with content team to develop high-converting landing pages and marketing assets, improving overall campaign performance",
+        "Implemented comprehensive analytics framework to track user journey from first touch to conversion, enabling more effective budget allocation"
+      ]
+    },
+    {
+      "companyName": "Mersive Technologies",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQF9JvzeXDa3qw/company-logo_400_400/company-logo_400_400/0/1727088728309/mersive_logo?e=1748476800&v=beta&t=LdBjn4sHcX9M7NNLMV61-uZCLfHK96ePwsbGq6vi4rs",
+      "companyIndustry": "Information Technology & Services",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Demand Generation Manager – Digital Advertising and Email Marketing",
+      "employmentType": "Full-time",
+      "startDate": "September 2020",
+      "endDate": "December 2020",
+      "description": "Led demand generation efforts through digital advertising and email marketing campaigns for a B2B technology company specializing in wireless collaboration solutions.",
+      "achievements": [
+        "Developed integrated digital advertising strategy across search, display, and social media platforms to drive qualified leads",
+        "Optimized campaign targeting and messaging to improve engagement with key decision-makers in target industries",
+        "Collaborated with sales team to align marketing initiatives with sales objectives and improve lead quality"
+      ]
+    },
+    {
+      "companyName": "Mersive Technologies",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQF9JvzeXDa3qw/company-logo_400_400/company-logo_400_400/0/1727088728309/mersive_logo?e=1748476800&v=beta&t=LdBjn4sHcX9M7NNLMV61-uZCLfHK96ePwsbGq6vi4rs",
+      "companyIndustry": "Information Technology & Services",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Email Marketing Manager",
+      "employmentType": "Full-time",
+      "startDate": "February 2019",
+      "endDate": "September 2020",
+      "description": "Managed email marketing strategy and execution, focusing on lead nurturing, customer engagement, and retention campaigns.",
+      "achievements": [
+        "Implemented segmentation and personalization strategies that increased email open rates by 35% and click-through rates by 42%",
+        "Developed automated email workflows for lead nurturing, reducing sales cycle length by 22%",
+        "Created and optimized email templates and content to improve engagement and conversion rates"
+      ]
+    },
+    {
+      "companyName": "Sphero",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQGz91Y256YjCg/company-logo_400_400/company-logo_400_400/0/1721085033131/sphero_logo?e=1748476800&v=beta&t=2m9K4YgjBsICpFeo7sLazpSE5426VATC6hz8Rjmlv0s",
+      "companyIndustry": "Primary/Secondary Education",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Ecommerce Marketing Manager",
+      "employmentType": "Full-time",
+      "startDate": "June 2017",
+      "endDate": "February 2019",
+      "description": "Led ecommerce marketing initiatives for an educational robotics company, focusing on driving online sales and customer acquisition.",
+      "achievements": [
+        "Managed digital marketing campaigns across multiple channels to drive traffic and conversions to the ecommerce platform",
+        "Optimized product pages and checkout process to improve conversion rates",
+        "Implemented email marketing strategies to increase customer retention and lifetime value"
+      ]
+    },
+    {
+      "companyName": "Placeable",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQHGm-l2VJgtMg/company-logo_400_400/company-logo_400_400/0/1631367835461?e=1748476800&v=beta&t=22tfec52XWWeriDqQgiNxZxMFhV5ue-9E9XCkAz-rqA",
+      "companyIndustry": "Information Technology & Services",
+      "companyStaffCountRange": "201 - 500",
+      "title": "Sales and Marketing Operations Analyst",
+      "employmentType": "Full-time",
+      "startDate": "February 2016",
+      "endDate": "July 2017",
+      "description": "Supported sales and marketing operations through data analysis, reporting, and process optimization.",
+      "achievements": [
+        "Analyzed marketing campaign performance and provided actionable insights to improve ROI",
+        "Developed and maintained sales and marketing dashboards to track key performance indicators",
+        "Collaborated with cross-functional teams to streamline lead management and sales processes"
+      ]
+    },
+    {
+      "companyName": "EVO Payments International",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHMMOnLQDjeJA/company-logo_400_400/company-logo_400_400/0/1630644039369/evopayments_logo?e=1748476800&v=beta&t=E3al_M7puJdI2wZ63ML2lhK33ZNhuB1HHRzJHT1ye5U",
+      "companyIndustry": "Financial Services",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Sales and Marketing Operations Manager",
+      "employmentType": "Full-time",
+      "startDate": "August 2013",
+      "endDate": "February 2016",
+      "description": "Managed sales and marketing operations for a global payment processing company, focusing on process optimization and performance tracking.",
+      "achievements": [
+        "Led implementation of CRM system to improve sales tracking and reporting capabilities",
+        "Developed and executed marketing campaigns to support sales initiatives",
+        "Created and maintained performance dashboards to track key metrics and identify areas for improvement"
+      ]
+    },
+    {
+      "companyName": "IP Commerce",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQFARcGHSDBJ7A/company-logo_400_400/company-logo_400_400/0/1631318226269?e=1748476800&v=beta&t=R_fUYYJzRVPUaV9uBWqI9F3EzyzWyhXXkOTF6M9Yu74",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Marketing Engineer",
+      "employmentType": "Full-time",
+      "startDate": "November 2010",
+      "endDate": "April 2013",
+      "description": "Combined technical and marketing expertise to support product marketing initiatives for a payment processing software company.",
+      "achievements": [
+        "Developed technical marketing materials to explain complex payment processing concepts to non-technical audiences",
+        "Supported customer onboarding and implementation processes",
+        "Collaborated with product and engineering teams to ensure marketing messaging aligned with product capabilities"
+      ]
+    },
+    {
+      "companyName": "Big Brothers Big Sisters of Colorado",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQGynPRYBTa3kA/company-logo_400_400/company-logo_400_400/0/1656938601995?e=1748476800&v=beta&t=FTwKbA5oIco1eE089iMVHAnAqkXNN3vubLbEG9bFrh4",
+      "companyIndustry": "Non-profit Organization Management",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Fund Development Vista",
+      "employmentType": "Full-time",
+      "startDate": "June 2009",
+      "endDate": "September 2010",
+      "description": "Served as an AmeriCorps VISTA member supporting fund development initiatives for Big Brothers Big Sisters of Colorado.",
+      "achievements": [
+        "Provided support for fundraising events and campaigns",
+        "Managed the Cars Helping Kids Program marketing and solicitation efforts",
+        "Conducted research on target populations to improve outreach and engagement strategies"
+      ]
+    },
+    {
+      "companyName": "Partnership for Public Service",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQFJmJLlf28dtg/company-logo_400_400/company-logo_400_400/0/1630485590160/publicservice_logo?e=1748476800&v=beta&t=ZCB8Kx3ovyNQFngbGa4NYDWuwTr3GWvmcltSAE_ZtOg",
+      "companyIndustry": "Government Relations",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Administrative Fellow",
+      "employmentType": "Internship",
+      "startDate": "May 2007",
+      "endDate": "August 2007",
+      "description": "Served as an administrative fellow supporting the organization's mission to revitalize the federal government.",
+      "achievements": [
+        "Provided administrative support for various programs and initiatives",
+        "Assisted with research and data collection projects",
+        "Supported event planning and execution"
+      ]
+    }
+  ],
+  "education": {
+    "schoolName": "Central Michigan University",
+    "degree": "Bachelors of Science in Business Administration",
+    "fieldOfStudy": "Finance",
+    "startYear": 2004,
+    "endYear": 2008,
+    "activities": "American Marketing Association, American Finance Association"
+  },
+  "bio": "I graduated in 2008 from Central Michigan University during the start of the great recession with a degree in Finance. Needless to say, not many people were looking for finance new grads, so I spent a year with Americorps VISTA and worked at Big Brothers Big Sisters of Colorado. From there I became interested in digital marketing, data and analytics and have grown into a seasoned digital marketing professional."
+}
