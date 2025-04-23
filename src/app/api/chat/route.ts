@@ -19,7 +19,14 @@ const openai = new OpenAI({
 
 // Function to read the experience data
 async function getExperienceData() {
-  const filePath = path.join(process.cwd(), 'data', 'trevor_experience.json');
+  const filePath = path.join(process.cwd(), 'src', 'data', 'trevor_experience.json');
+  const jsonData = await fs.readFile(filePath, 'utf8');
+  return JSON.parse(jsonData);
+}
+
+// Function to read the profile data
+async function getProfileData() {
+  const filePath = path.join(process.cwd(), 'src', 'data', 'trevor_profile.json');
   const jsonData = await fs.readFile(filePath, 'utf8');
   return JSON.parse(jsonData);
 }
@@ -36,18 +43,25 @@ export async function POST(request: Request) {
       );
     }
 
-    // Get the experience data
-    const experienceData = await getExperienceData();
+    // Get both experience and profile data
+    const [experienceData, profileData] = await Promise.all([
+      getExperienceData(),
+      getProfileData()
+    ]);
 
-    // Create a system message that includes the work history context
+    // Create a system message that includes both work history and profile context
     const systemMessage = `You are a helpful assistant that answers questions about Trevor's work experience and background. 
-Here is Trevor's work history:
+Here is Trevor's profile and work history:
 
+Profile:
+${JSON.stringify(profileData, null, 2)}
+
+Work Experience:
 ${JSON.stringify(experienceData, null, 2)}
 
-Please use this information to answer questions about Trevor's work experience, education, and background. 
-If asked about specific time periods, companies, or roles, refer to the provided data.
-If the question is not related to Trevor's work experience or background, politely let the user know that you can only answer questions about Trevor's professional experience.`;
+Please use this information to answer questions about Trevor's work experience, skills, education, and background. 
+If asked about specific time periods, companies, roles, or skills, refer to the provided data.
+If the question is not related to Trevor's professional experience or background, politely let the user know that you can only answer questions about Trevor's professional experience.`;
 
     console.log('Making OpenAI API call...');
     const completion = await openai.chat.completions.create({
