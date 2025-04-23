@@ -1,0 +1,57 @@
+{
+  "name": "Trevor Rawls",
+  "title": "Digital Marketing Professional",
+  "description": "Driving growth through data-driven marketing strategies and innovative campaign optimization.",
+  "skills": {
+    "core": [
+      {
+        "name": "Digital Advertising",
+        "years": "10+ years"
+      },
+      {
+        "name": "Growth Marketing",
+        "years": "8+ years"
+      },
+      {
+        "name": "User Acquisition",
+        "years": "10+ years"
+      },
+      {
+        "name": "Campaign Optimization",
+        "years": "10+ years"
+      },
+      {
+        "name": "Data Analysis",
+        "years": "15+ years"
+      },
+      {
+        "name": "Team Leadership",
+        "years": "8+ years"
+      }
+    ],
+    "platforms": [
+      {
+        "name": "Google Ads",
+        "years": "15+ years"
+      },
+      {
+        "name": "Meta Ads",
+        "years": "8+ years"
+      },
+      {
+        "name": "Microsoft Ads",
+        "years": "8+ years"
+      },
+      {
+        "name": "Apple Search Ads",
+        "years": "4+ years"
+      }
+    ]
+  },
+  "contact": {
+    "email": "trevor.rawls@gmail.com",
+    "phone": "(303) 330-8336",
+    "location": "Denver, Colorado",
+    "linkedin": "linkedin.com/in/trevorrawls"
+  }
+} 
