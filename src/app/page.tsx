@@ -238,18 +238,35 @@ export default function Home() {
             </div>
             <div className="contact-form glow-effect">
               <h3 className="gradient-text-animated">Send a Message</h3>
-              <form>
+              <form action="https://trawls.activehosted.com/proc.php" method="POST" id="_form_3_" className="_form _form_3 _inline-form  _dark" noValidate>
+                <input type="hidden" name="u" value="3" />
+                <input type="hidden" name="f" value="3" />
+                <input type="hidden" name="s" />
+                <input type="hidden" name="c" value="0" />
+                <input type="hidden" name="m" value="0" />
+                <input type="hidden" name="act" value="sub" />
+                <input type="hidden" name="v" value="2" />
+                <input type="hidden" name="or" value="f3c3a1c0c0c0c0c0c0c0c0c0c0c0c0c0" />
+                <input type="hidden" name="redirect" value="https://trevorrawls.com/thanks-for-contacting-me" />
                 <div className="form-group">
                   <label htmlFor="name">Name</label>
-                  <input type="text" id="name" name="name" required />
+                  <input type="text" id="name" name="fullname" required />
                 </div>
                 <div className="form-group">
-                  <label htmlFor="email">Email</label>
+                  <label htmlFor="email">Email *</label>
                   <input type="email" id="email" name="email" required />
                 </div>
                 <div className="form-group">
                   <label htmlFor="message">Message</label>
-                  <textarea id="message" name="message" required></textarea>
+                  <textarea id="message" name="field[9]" required></textarea>
+                </div>
+                <div className="_form_element _x00000000 _full_width">
+                  <div className="_form-title"></div>
+                  <div className="_form_element _x00000000 _full_width">
+                    <div className="_html-code">
+                      <p>*Required Field</p>
+                    </div>
+                  </div>
                 </div>
                 <button type="submit" className="submit-button button-glow">Send Message</button>
               </form>
