@@ -14,7 +14,7 @@ export default function ActiveCampaignPage() {
         <div className={styles.companyHeader}>
           <div className={styles.companyLogoLarge}>
             <Image 
-              src="/images/activecampaign-logo.jpg" 
+              src="/images/activecampaign.svg" 
               alt="ActiveCampaign Logo"
               width={90}
               height={90}

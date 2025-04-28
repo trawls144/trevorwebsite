@@ -37,16 +37,11 @@ export default function Experience() {
           </div>
           
           <div className={styles.allExperienceGrid}>
-            <div className={styles.experienceCard}>
-              <div className={styles.companyLogo}>
-                <Image 
-                  src="/images/activecampaign-logo.jpg" 
-                  alt="ActiveCampaign Logo"
-                  width={100}
-                  height={100}
-                />
+            <div className="experience-card card-hover-effect card-3d">
+              <div className="company-logo">
+                <img src="/images/activecampaign.svg" alt="ActiveCampaign Logo" width={100} height={100} />
               </div>
-              <div className={styles.experienceContent}>
+              <div className="experience-content">
                 <h3>Demand Generation Marketing Lead, Postmark</h3>
                 <div className={styles.companyInfo}>
                   <span className="company-name">ActiveCampaign</span>
@@ -59,16 +54,11 @@ export default function Experience() {
               </div>
             </div>
 
-            <div className={styles.experienceCard}>
-              <div className={styles.companyLogo}>
-                <Image 
-                  src="/images/mailgun-logo.jpg" 
-                  alt="Mailgun Logo"
-                  width={100}
-                  height={100}
-                />
+            <div className="experience-card card-hover-effect card-3d">
+              <div className="company-logo">
+                <img src="/images/mailgun.svg" alt="Mailgun Logo" width={100} height={100} />
               </div>
-              <div className={styles.experienceContent}>
+              <div className="experience-content">
                 <h3>Performance Marketing Manager - Team Lead</h3>
                 <div className={styles.companyInfo}>
                   <span className="company-name">Mailgun by Sinch</span>
@@ -81,16 +71,11 @@ export default function Experience() {
               </div>
             </div>
 
-            <div className={styles.experienceCard}>
-              <div className={styles.companyLogo}>
-                <Image 
-                  src="/images/emailonacid-logo.jpg" 
-                  alt="Email on Acid Logo"
-                  width={100}
-                  height={100}
-                />
+            <div className="experience-card card-hover-effect card-3d">
+              <div className="company-logo">
+                <img src="/images/emailonacid.svg" alt="Email on Acid Logo" width={100} height={100} />
               </div>
-              <div className={styles.experienceContent}>
+              <div className="experience-content">
                 <h3>Digital Marketing Manager</h3>
                 <div className={styles.companyInfo}>
                   <span className="company-name">Email on Acid</span>
@@ -103,16 +88,11 @@ export default function Experience() {
               </div>
             </div>
 
-            <div className={styles.experienceCard}>
-              <div className={styles.companyLogo}>
-                <Image 
-                  src="/images/mersive-logo.jpg" 
-                  alt="Mersive Technologies Logo"
-                  width={100}
-                  height={100}
-                />
+            <div className="experience-card card-hover-effect card-3d">
+              <div className="company-logo">
+                <img src="/images/mersive.svg" alt="Mersive Logo" width={100} height={100} />
               </div>
-              <div className={styles.experienceContent}>
+              <div className="experience-content">
                 <h3>Demand Generation Manager – Digital Advertising and Email Marketing</h3>
                 <div className={styles.companyInfo}>
                   <span className="company-name">Mersive Technologies</span>
@@ -125,16 +105,11 @@ export default function Experience() {
               </div>
             </div>
 
-            <div className={styles.experienceCard}>
-              <div className={styles.companyLogo}>
-                <Image 
-                  src="/images/mersive-logo.jpg" 
-                  alt="Mersive Technologies Logo"
-                  width={100}
-                  height={100}
-                />
+            <div className="experience-card card-hover-effect card-3d">
+              <div className="company-logo">
+                <img src="/images/mersive.svg" alt="Mersive Logo" width={100} height={100} />
               </div>
-              <div className={styles.experienceContent}>
+              <div className="experience-content">
                 <h3>Email Marketing Manager</h3>
                 <div className={styles.companyInfo}>
                   <span className="company-name">Mersive Technologies</span>
@@ -147,16 +122,11 @@ export default function Experience() {
               </div>
             </div>
 
-            <div className={styles.experienceCard}>
-              <div className={styles.companyLogo}>
-                <Image 
-                  src="/images/sphero-logo.jpg" 
-                  alt="Sphero Logo"
-                  width={100}
-                  height={100}
-                />
+            <div className="experience-card card-hover-effect card-3d">
+              <div className="company-logo">
+                <img src="/images/sphero.svg" alt="Sphero Logo" width={100} height={100} />
               </div>
-              <div className={styles.experienceContent}>
+              <div className="experience-content">
                 <h3>Ecommerce Marketing Manager</h3>
                 <div className={styles.companyInfo}>
                   <span className="company-name">Sphero</span>
@@ -169,16 +139,11 @@ export default function Experience() {
               </div>
             </div>
 
-            <div className={styles.experienceCard}>
-              <div className={styles.companyLogo}>
-                <Image 
-                  src="/images/placeable-logo.jpg" 
-                  alt="Placeable Logo"
-                  width={100}
-                  height={100}
-                />
+            <div className="experience-card card-hover-effect card-3d">
+              <div className="company-logo">
+                <img src="/images/placeable.png" alt="Placeable Logo" width={100} height={100} />
               </div>
-              <div className={styles.experienceContent}>
+              <div className="experience-content">
                 <h3>Sales and Marketing Operations Analyst</h3>
                 <div className={styles.companyInfo}>
                   <span className="company-name">Placeable</span>
@@ -191,16 +156,11 @@ export default function Experience() {
               </div>
             </div>
 
-            <div className={styles.experienceCard}>
-              <div className={styles.companyLogo}>
-                <Image 
-                  src="/images/evo-logo.jpg" 
-                  alt="EVO Payments Logo"
-                  width={100}
-                  height={100}
-                />
+            <div className="experience-card card-hover-effect card-3d">
+              <div className="company-logo">
+                <img src="/images/evo.svg" alt="EVO Payments Logo" width={100} height={100} />
               </div>
-              <div className={styles.experienceContent}>
+              <div className="experience-content">
                 <h3>Sales and Marketing Operations Manager</h3>
                 <div className={styles.companyInfo}>
                   <span className="company-name">EVO Payments International</span>
@@ -213,16 +173,11 @@ export default function Experience() {
               </div>
             </div>
 
-            <div className={styles.experienceCard}>
-              <div className={styles.companyLogo}>
-                <Image 
-                  src="/images/ipcommerce-logo.jpg" 
-                  alt="IP Commerce Logo"
-                  width={100}
-                  height={100}
-                />
+            <div className="experience-card card-hover-effect card-3d">
+              <div className="company-logo">
+                <img src="/images/ipcommerce.webp" alt="IP Commerce Logo" width={100} height={100} />
               </div>
-              <div className={styles.experienceContent}>
+              <div className="experience-content">
                 <h3>Marketing Engineer</h3>
                 <div className={styles.companyInfo}>
                   <span className="company-name">IP Commerce</span>
@@ -235,16 +190,11 @@ export default function Experience() {
               </div>
             </div>
 
-            <div className={styles.experienceCard}>
-              <div className={styles.companyLogo}>
-                <Image 
-                  src="/images/bbbsc-logo.jpg" 
-                  alt="Big Brothers Big Sisters Logo"
-                  width={100}
-                  height={100}
-                />
+            <div className="experience-card card-hover-effect card-3d">
+              <div className="company-logo">
+                <img src="/images/bbbsc.svg" alt="Big Brothers Big Sisters Logo" width={100} height={100} />
               </div>
-              <div className={styles.experienceContent}>
+              <div className="experience-content">
                 <h3>Fund Development Vista</h3>
                 <div className={styles.companyInfo}>
                   <span className="company-name">Big Brothers Big Sisters of Colorado</span>

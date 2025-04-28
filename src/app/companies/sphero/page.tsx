@@ -14,7 +14,7 @@ export default function SpheroPage() {
         <div className={styles.companyHeader}>
           <div className={styles.companyLogoLarge}>
             <Image 
-              src="/images/sphero-logo.jpg" 
+              src="/images/sphero.svg" 
               alt="Sphero Logo"
               width={90}
               height={90}

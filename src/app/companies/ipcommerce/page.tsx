@@ -14,7 +14,7 @@ export default function IPCommercePage() {
         <div className={styles.companyHeader}>
           <div className={styles.companyLogoLarge}>
             <Image 
-              src="/images/ipcommerce-logo.jpg" 
+              src="/images/ipcommerce.webp" 
               alt="IP Commerce Logo"
               width={90}
               height={90}

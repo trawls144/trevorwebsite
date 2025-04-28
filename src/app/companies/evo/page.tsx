@@ -14,7 +14,7 @@ export default function EVOPage() {
         <div className={styles.companyHeader}>
           <div className={styles.companyLogoLarge}>
             <Image 
-              src="/images/evo-logo.jpg" 
+              src="/images/evo.svg" 
               alt="EVO Payments Logo"
               width={90}
               height={90}

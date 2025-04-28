@@ -14,7 +14,7 @@ export default function EmailOnAcidPage() {
         <div className={styles.companyHeader}>
           <div className={styles.companyLogoLarge}>
             <Image 
-              src="/images/emailonacid-logo.jpg" 
+              src="/images/emailonacid.svg" 
               alt="Email on Acid Logo"
               width={90}
               height={90}

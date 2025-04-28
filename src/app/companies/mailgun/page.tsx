@@ -14,7 +14,7 @@ export default function MailgunPage() {
         <div className={styles.companyHeader}>
           <div className={styles.companyLogoLarge}>
             <Image 
-              src="/images/mailgun-logo.jpg" 
+              src="/images/mailgun.svg" 
               alt="Mailgun Logo"
               width={90}
               height={90}

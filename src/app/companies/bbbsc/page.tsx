@@ -14,8 +14,8 @@ export default function BBBSCPage() {
         <div className={styles.companyHeader}>
           <div className={styles.companyLogoLarge}>
             <Image 
-              src="/images/bbbsc-logo.jpg" 
-              alt="Big Brothers Big Sisters of Colorado Logo"
+              src="/images/bbbsc.svg" 
+              alt="Big Brothers Big Sisters Logo"
               width={90}
               height={90}
             />

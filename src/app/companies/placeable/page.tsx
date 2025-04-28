@@ -14,7 +14,7 @@ export default function PlaceablePage() {
         <div className={styles.companyHeader}>
           <div className={styles.companyLogoLarge}>
             <Image 
-              src="/images/placeable-logo.jpg" 
+              src="/images/placeable.png" 
               alt="Placeable Logo"
               width={90}
               height={90}

@@ -135,7 +135,7 @@ export default function Home() {
           <div className="experience-grid">
             <div className="experience-card card-hover-effect card-3d">
               <div className="company-logo">
-                <div className="placeholder-logo">AC</div>
+                <img src="/images/activecampaign.svg" alt="ActiveCampaign Logo" width={100} height={100} />
               </div>
               <div className="experience-content">
                 <h3>Demand Generation Marketing Lead, Postmark</h3>
@@ -152,7 +152,7 @@ export default function Home() {
 
             <div className="experience-card card-hover-effect card-3d">
               <div className="company-logo">
-                <div className="placeholder-logo">MG</div>
+                <img src="/images/mailgun.svg" alt="Mailgun Logo" width={100} height={100} />
               </div>
               <div className="experience-content">
                 <h3>Performance Marketing Manager - Team Lead</h3>
@@ -169,7 +169,7 @@ export default function Home() {
 
             <div className="experience-card card-hover-effect card-3d">
               <div className="company-logo">
-                <div className="placeholder-logo">EOA</div>
+                <img src="/images/emailonacid.svg" alt="Email on Acid Logo" width={100} height={100} />
               </div>
               <div className="experience-content">
                 <h3>Digital Marketing Manager</h3>
@@ -186,7 +186,7 @@ export default function Home() {
 
             <div className="experience-card card-hover-effect card-3d">
               <div className="company-logo">
-                <div className="placeholder-logo">MT</div>
+                <img src="/images/mersive.svg" alt="Mersive Logo" width={100} height={100} />
               </div>
               <div className="experience-content">
                 <h3>Demand Generation Manager</h3>

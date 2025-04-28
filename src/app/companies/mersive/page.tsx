@@ -14,8 +14,8 @@ export default function MersivePage() {
         <div className={styles.companyHeader}>
           <div className={styles.companyLogoLarge}>
             <Image 
-              src="/images/mersive-logo.jpg" 
-              alt="Mersive Technologies Logo"
+              src="/images/mersive.svg" 
+              alt="Mersive Logo"
               width={90}
               height={90}
             />
